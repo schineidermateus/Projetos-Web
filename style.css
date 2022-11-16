@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background-image: linear-gradient(to right, #a0d2eb, #e5eaf5, #af979f, #cd819b, #a28089, #494d5f)
+}
+
+.myapp-container-nav a{
+    color: #494d5f;
+    text-decoration: none;
+}
+
+.myapp-container-nav {
+    margin-top: 50px;
+    
+}
+
+.myapp-container-nav a:hover {
+    color: #9598a7;
+    text-decoration: underline;
+}
+

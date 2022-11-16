@@ -1,0 +1,36 @@
+body{
+    background-color: #383838;
+}
+
+body section .dragoes .drag-daenerys {
+    background: #414141;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+body section .dragoes .drag-daenerys >p{
+    padding: 15px;
+}
+
+body section .dragoes .drag-daenerys >img{
+    margin: 15px 17px 2px 35px;
+    max-width: 500px;
+    max-height: 500px; 
+}
+
+.age-table{
+    padding: 10px;
+    border-radius: 8px;
+    background: #414141;
+}
+
+table{ 
+    background: orange; 
+    border-color: rgb(207, 207, 216);
+    border-style: solid;
+}
+table, th{
+    background: #666; 
+    color: white; 
+    border: 1px solid #d0d0d0;
+ }
